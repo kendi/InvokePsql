@@ -1,0 +1,8 @@
+{
+	"TestDbConnection" : {
+		"Host" : "192.168.32.132",
+		"User" : "postgres",
+		"DbName" : "scale-validation",
+		"TableName" : "invoke_psql_test"
+	}
+}
